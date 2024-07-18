@@ -14,3 +14,4 @@ gitGraph
    commit
    commit
 ```
+foo
